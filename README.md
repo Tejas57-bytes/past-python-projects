@@ -1,3 +1,3 @@
-these are some of my previous python projects. i'm just getting started with the github 
-i was thinking we should add the existing projects in the repositary 
+these are some of my previous python projects. I'm just getting started with the github 
+i was thinking we should push the existing projects in the repositary 
 but i was wrong it's much easier than all that mess i was doing.
